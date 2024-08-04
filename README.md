@@ -1,8 +1,9 @@
 # Data Science Portfolio - Shaf Malik
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
-- **Email**: [shafmalik05@gmail.com](shafmalik05@gmail.com)
-- **LinkedIn**: [linkedin.com/shaf-malik-8a551329b](https://www.linkedin.com/in/shaf-malik-8a551329b/)
+**Email**: [shafmalik05@gmail.com](shafmalik05@gmail.com)
+
+**LinkedIn**: [linkedin.com/shaf-malik-8a551329b](https://www.linkedin.com/in/shaf-malik-8a551329b/)
 
 ## Achievements
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
