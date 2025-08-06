@@ -1,39 +1,43 @@
 # Data Science Portfolio - Shaf Malik
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. It also contains my achievements, skills, and certificates. It is updated on a regular basis.
 
-**Email**: [shafmalik05@gmail.com](shafmalik05@gmail.com)
-
+**Email**: [shafmalik05@gmail.com](mailto:shafmalik05@gmail.com)  
 **LinkedIn**: [linkedin.com/shaf-malik-8a551329b](https://www.linkedin.com/in/shaf-malik-8a551329b/)
+
+---
 
 ## Achievements
 
 - Recipient of Outstanding Master of Engineering - Industrial Engineering Student Award.
 - [Publication](https://phmpapers.org/index.php/phmconf/article/view/1292): Prognosis of Wind Turbine Gearbox Bearing Failures using SCADA and Modeled Data, Proceedings of the Annual Conference of the PHM Society 2020, Vol. 12 No. 1.
-- Winner of a TAMU Datathon 2020 among 50+ teams.
+- Winner of TAMU Datathon 2020 among 50+ teams.
 - Recipient of TAMU Scholarship and Fee Waiver for excellent academic performance (4.0 GPA).
+
+---
 
 ## Projects
 
-<img align="left" width="250" height="150" src="IMG_2524.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+### [Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)
+<img align="left" width="250" height="150" src="IMG_2524.jpg" alt="Churn Prediction Project">
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+In this project, I used survival analysis to study how the likelihood of customer churn changes over time. I also implemented a Random Forest model to predict customer churn and deployed the model using a Flask web app on Heroku.  
+**[Live App](https://churn-prediction-app.herokuapp.com/)**
 
+<br clear="left"/>
 
+### [Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)
+<img align="left" width="250" height="150" src="IMG_2524.jpg" alt="Instacart Project">
 
+Analyzed 3 million grocery orders from over 200,000 Instacart users to predict which previously purchased items will be in the user's next order. Customer segmentation and affinity analysis were performed to study user purchase patterns.
 
+<br clear="left"/>
 
-<img align="left" width="250" height="150" src="IMG_2524.jpg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
+### [Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)
+<img align="left" width="250" height="150" src="IMG_2524.jpg" alt="News Recommender">
 
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+A hybrid-filtering personalized news recommendation system that suggests articles from popular news providers based on the reading history of similar Twitter users (collaborative filtering) and content similarity between articles and users’ tweets (content-based filtering).
 
-
-
-
-
-<img align="left" width="250" height="150" src="IMG_2524.jpg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
- 
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
-
+<br clear="left"/>
 
 
