@@ -1,4 +1,4 @@
-# Data Science Portfolio - Shaf Malik
+# Portfolio - Shaf Malik
 
 This portfolio showcases my Data Science and Data Analysis projects, spanning academic, self-learning, and hobbyist work. It highlights my skills, achievements, and certifications, with regular updates.
 
