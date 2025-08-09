@@ -9,7 +9,7 @@ This portfolio showcases my Data Science and Data Analysis projects, spanning ac
 
 ## Projects* (NOTE: May need VSCode to view)
 
-### [Customer Survival Analysis and Churn Prediction](Files/churn_data.ipynb)
+### [Customer Survival Analysis and Churn Prediction](https://github.com/shafmalik/shaf.malik05/blob/main/Files/Tensor.ipynb)
 <img align="left" width="250" height="150" src="Churn.png" alt="Churn Prediction Project">
 This project focuses on predicting customer churn using machine learning models, leveraging historical customer data. By analyzing customer behavior, we can predict the likelihood of churn and take proactive measures to retain customers. It demonstrates the importance of data-driven decision-making in customer relationship management. 
 
