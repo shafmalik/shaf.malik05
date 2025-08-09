@@ -11,24 +11,24 @@ This portfolio showcases my Data Science and Data Analysis projects, spanning ac
 
 ### [Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)
 <img align="left" width="250" height="150" src="Churn.png" alt="Churn Prediction Project">
-In this project, I used survival analysis to study how the likelihood of customer churn changes over time. I also implemented a Random Forest model to predict customer churn and deployed the model using a Flask web app on Heroku.  
+This project focuses on predicting customer churn using machine learning models, leveraging historical customer data. By analyzing customer behavior, we can predict the likelihood of churn and take proactive measures to retain customers. It demonstrates the importance of data-driven decision-making in customer relationship management. 
 
 <div style="clear: both;"></div> <!-- Clear the float -->
-<div><strong>TOPICS</strong></div>
+<div><strong>SKILLS: Pandas,Numpy,EDA,Scikit-learn,PowerBi/Tableau,Feature engineering </strong></div>
 <br clear="left"/>
 
-### [Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)
+### [Real time stock prediciton with MLOPs deployment](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)
 <img align="left" width="250" height="150" src="mlops-cycle.png" alt="Instacart Project">
-Analyzed 3 million grocery orders from over 200,000 Instacart users to predict which previously purchased items will be in the user's next order. Customer segmentation and affinity analysis were performed to study user purchase patterns.
+The real-time stock prediction project leverages machine learning to predict stock prices using historical data and deep learning models like LSTM. By implementing an MLOps pipeline, the model is continuously retrained with fresh data, ensuring accuracy and robustness in real-time predictions. The deployment, powered by FastAPI, enables seamless integration for live market predictions, allowing users to access up-to-date stock forecasts with minimal latency.
 
 <div style="clear: both;"></div> <!-- Clear the float -->
-<div><strong>TOPICS</strong></div>
+<div><strong>SKILLS: MLOPs,Time Series, API, Docker/Dash</strong></div>
 <br clear="left"/>
 
-### [Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)
+### [Pneumonia Detection](https://github.com/archd3sai/News-Articles-Recommendation)
 <img align="left" width="250" height="150" src="Heatmap.png" alt="News Recommender">
-A hybrid-filtering personalized news recommendation system that suggests articles from popular news providers based on the reading history of similar Twitter users (collaborative filtering) and content similarity between articles and users’ tweets (content-based filtering).
+This project uses deep learning techniques, particularly CNNs, to detect pneumonia from chest X-ray images. The model was trained on labeled datasets to classify images as either normal or pneumonia-infected. It showcases the application of AI in healthcare to assist in the early detection and diagnosis of life-threatening conditions.
 
 <div style="clear: both;"></div> <!-- Clear the float -->
-<div><strong>TOPICS</strong></div>
+<div><strong>SKILLS: Deep Learning and OpenCV/Computer Vision</strong></div>
 <br clear="left"/>
