@@ -7,7 +7,7 @@ This portfolio showcases my Data Science and Data Analysis projects, spanning ac
 
 ---
 
-## Projects
+## Projects* (NOTE: May need VSCode to view)
 
 ### [Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)
 <img align="left" width="250" height="150" src="Churn.png" alt="Churn Prediction Project">
