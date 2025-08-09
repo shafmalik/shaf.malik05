@@ -26,7 +26,7 @@ Analyzed 3 million grocery orders from over 200,000 Instacart users to predict w
 <br clear="left"/>
 
 ### [Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)
-<img align="left" width="250" height="150" src="IMG_2524.jpg" alt="News Recommender">
+<img align="left" width="250" height="150" src="Heatmap.png" alt="News Recommender">
 A hybrid-filtering personalized news recommendation system that suggests articles from popular news providers based on the reading history of similar Twitter users (collaborative filtering) and content similarity between articles and users’ tweets (content-based filtering).
 
 <div style="clear: both;"></div> <!-- Clear the float -->
