@@ -1,6 +1,6 @@
 # Data Science Portfolio - Shaf Malik
 
-This portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning, and hobby purposes. It also contains my achievements, skills, and certificates. It is updated on a regular basis.
+This portfolio showcases my Data Science and Data Analysis projects, spanning academic, self-learning, and hobbyist work. It highlights my skills, achievements, and certifications, with regular updates.
 
 **Email**: [shafmalik05@gmail.com](mailto:shafmalik05@gmail.com)  
 **LinkedIn**: [linkedin.com/shaf-malik-8a551329b](https://www.linkedin.com/in/shaf-malik-8a551329b/)
