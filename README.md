@@ -18,7 +18,7 @@ __TOPICS__
 <br clear="left"/>
 
 ### [Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)
-<img align="left" width="250" height="150" src="IMG_2524.jpg" alt="Instacart Project">
+<img align="left" width="250" height="150" src="mlops-cycle.png" alt="Instacart Project">
 
 Analyzed 3 million grocery orders from over 200,000 Instacart users to predict which previously purchased items will be in the user's next order. Customer segmentation and affinity analysis were performed to study user purchase patterns.
 __TOPICS__
