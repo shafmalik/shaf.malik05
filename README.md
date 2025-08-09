@@ -10,7 +10,7 @@ This portfolio showcases my AI and data centric projects, spanning academic, sel
 ## Projects* 
 * MAY REQUIRE VSCODE TO WORK
 
-### [Customer Survival Analysis and Churn Prediction](https://github.com/shafmalik/shaf.malik05/blob/main/Files/Tensor.ipynb)
+### [Customer Survival Analysis and Churn Prediction](https://github.com/shafmalik/shaf.malik05/blob/main/Files/churn_data.ipynb)
 <img align="left" width="250" height="150" src="Churn.png" alt="Churn Prediction Project">
 This project focuses on predicting customer churn using machine learning models, leveraging historical customer data. By analyzing customer behavior, we can predict the likelihood of churn and take proactive measures to retain customers. It demonstrates the importance of data-driven decision-making in customer relationship management. 
 
@@ -18,7 +18,7 @@ This project focuses on predicting customer churn using machine learning models,
 <div><strong>SKILLS: Pandas,Numpy,EDA,Scikit-learn,PowerBi/Tableau,Feature engineering </strong></div>
 <br clear="left"/>
 
-### [Real time stock prediciton with MLOPs deployment](Files/Tensor.ipynb)
+### [Real time stock prediciton with MLOPs deployment](https://github.com/shafmalik/shaf.malik05/blob/main/Files/Tensor.ipynb)
 <img align="left" width="250" height="150" src="mlops-cycle.png" alt="Instacart Project">
 The real-time stock prediction project leverages machine learning to predict stock prices using historical data and deep learning models like LSTM. By implementing an MLOps pipeline, the model is continuously retrained with fresh data, ensuring accuracy and robustness in real-time predictions. The deployment, powered by FastAPI, enables seamless integration for live market predictions, allowing users to access up-to-date stock forecasts.
 
