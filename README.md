@@ -25,7 +25,7 @@ The real-time stock prediction project leverages machine learning to predict sto
 <div><strong>SKILLS: MLOPs,Time Series, API, Docker/Dash</strong></div>
 <br clear="left"/>
 
-### [Pneumonia Detection](https://github.com/archd3sai/News-Articles-Recommendation)
+### [Pneumonia Detection](Files/PNA.ipynb)
 <img align="left" width="250" height="150" src="Heatmap.png" alt="News Recommender">
 This project uses deep learning techniques, particularly CNNs, to detect pneumonia from chest X-ray images. The model was trained on labeled datasets to classify images as either normal or pneumonia-infected. It showcases the application of AI in healthcare to assist in the early detection and diagnosis of life-threatening conditions.
 
