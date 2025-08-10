@@ -26,10 +26,10 @@ The real-time stock prediction project leverages machine learning to predict sto
 <div><strong>SKILLS: MLOPs,Time Series, API, Docker/Dash</strong></div>
 <br clear="left"/>
 
-### [Pneumonia Detection](https://github.com/shafmalik/shaf.malik05/blob/052b446b25913deb35e561f584a7ff797a806714/Files/Asp.ipynb)
+### [Phenotype](https://github.com/shafmalik/shaf.malik05/blob/052b446b25913deb35e561f584a7ff797a806714/Files/Asp.ipynb)
 <img align="left" width="250" height="150" src="Heatmap.png" alt="News Recommender">
-This project uses deep learning techniques, particularly CNNs, to detect pneumonia from chest X-ray images. The model was trained on labeled datasets to classify images as either normal or pneumonia-infected. It showcases the application of AI in healthcare to assist in the early detection and diagnosis of life-threatening conditions.
+This project is alightweight, production-minded NLP pipeline that classifies clinical progress notes into multiple phenotypes (e.g., diabetes, CHF, COPD) using scikit-learn only—no tensors, no spaCy. It includes section-aware preprocessing, simple negation handling, interpretable features, and a CLI for training on your own notes.
 
 <div style="clear: both;"></div> <!-- Clear the float -->
-<div><strong>SKILLS: Deep Learning and OpenCV/Computer Vision</strong></div>
+<div><strong>SKILLS: Deep Learning and NLP, scikit pipeline</strong></div>
 <br clear="left"/>
