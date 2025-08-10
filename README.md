@@ -7,8 +7,8 @@ This portfolio showcases my AI and data centric projects, spanning academic, sel
 
 ---
 
-## Projects* 
-* MAY REQUIRE VSCODE TO WORK
+## Projects
+
 
 ### [Customer Survival Analysis and Churn Prediction](https://github.com/shafmalik/shaf.malik05/blob/main/Files/churn_data.ipynb)
 <img align="left" width="250" height="150" src="Churn.png" alt="Churn Prediction Project">
