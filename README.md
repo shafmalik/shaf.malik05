@@ -27,7 +27,7 @@ The real-time stock prediction project leverages machine learning to predict sto
 <br clear="left"/>
 
 ### [Phenotype](https://github.com/shafmalik/shaf.malik05/blob/052b446b25913deb35e561f584a7ff797a806714/Files/Asp.ipynb)
-<img align="left" width="250" height="150" src="Heatmap.png" alt="News Recommender">
+<img align="left" width="250" height="150" src="Phenotype.png" alt="News Recommender">
 This project is alightweight, production-minded NLP pipeline that classifies clinical progress notes into multiple phenotypes (e.g., diabetes, CHF, COPD) using scikit-learn only—no tensors, no spaCy. It includes section-aware preprocessing, simple negation handling, interpretable features, and a CLI for training on your own notes.
 
 <div style="clear: both;"></div> <!-- Clear the float -->
