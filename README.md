@@ -20,7 +20,7 @@ This project focuses on predicting customer churn using machine learning models,
 
 ### [Real time stock prediciton with MLOPs deployment](https://github.com/shafmalik/shaf.malik05/blob/main/Files/Tensor.ipynb)
 <img align="left" width="250" height="150" src="mlops-cycle.png" alt="Instacart Project">
-The real-time stock prediction project leverages machine learning to predict stock prices using historical data and deep learning models like LSTM. By implementing an MLOps pipeline, the model is continuously retrained with fresh data, ensuring accuracy and robustness in real-time predictions. The deployment, powered by FastAPI, enables seamless integration for live market predictions, allowing users to access up-to-date stock forecasts.
+A real-time stock prediction project powered by LSTM models on historical market data. The real-time stock prediction project leverages machine learning to predict stock prices using historical data and deep learning models like LSTM. It’s backed by a continuous-training MLOps pipeline (retraining, CI/CD, tracking), with a FastAPI inference service currently in staging and nearing production release.
 
 <div style="clear: both;"></div> <!-- Clear the float -->
 <div><strong>SKILLS: MLOPs,Time Series, API, Docker/Dash</strong></div>
